@@ -1,0 +1,21 @@
+h1 {
+    background-color: aqua;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.recipe-list li {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    font-weight: bold;
+}
